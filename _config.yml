@@ -1,6 +1,6 @@
 name: Ideal Wild
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76125
 typography_spectrum: 0.98728
 title: Ideal Wild
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c4aea5'
     - '#31382f'
     - '#68604e'
-  brandStrength: 0.1875
+  brandStrength: 0.75
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.75
