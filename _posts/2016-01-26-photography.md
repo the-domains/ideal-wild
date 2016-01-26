@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T22:54:57.702Z'
-dateModified: '2016-01-26T22:54:45.977Z'
+datePublished: '2016-01-26T22:55:39.653Z'
+dateModified: '2016-01-26T22:55:37.426Z'
 title: Photography
 author: []
+sourcePath: _posts/2016-01-26-photography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-photography.md
-published: true
 url: photography/index.html
 _type: Article
 
